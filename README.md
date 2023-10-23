@@ -1,4 +1,4 @@
-**### Projeto API Biblioteca 📚💻**
+# Projeto API Biblioteca 📚💻
 
 Bem-vindo ao Projeto API Biblioteca, onde a magia da leitura encontra a tecnologia da informação! 🚀
 
